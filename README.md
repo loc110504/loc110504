@@ -6,12 +6,6 @@
     alt="LinkedIn"
   >
 </a>
-<a href="https://loccao1105.github.io/" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/Homepage-4FC08D?style=for-the-badge&logo=home&logoColor=white"
-    alt="Homepage"
-  >
-</a>
 
 ### About Me
 
