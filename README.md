@@ -40,7 +40,8 @@ I am currently an undergraduate student in Data Science at the University of Sci
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="40" height="40"/>
 </a>
 
-<b>AI Frameworks:</b><br>
+<b>AI Frameworks:</b><br
+                       
 <a href="https://pytorch.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
 </a>
@@ -61,29 +62,20 @@ I am currently an undergraduate student in Data Science at the University of Sci
 <a href="https://fastapi.tiangolo.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
 </a>
-
 <a href="https://www.docker.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
 </a>
-
 <a href="https://streamlit.io/">
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" height="40"/>
 </a>
-
 <a href="https://gradio.app/">
   <img src="https://avatars.githubusercontent.com/u/73991455?s=200&v=4" width="40" height="40"/>
 </a>
-
 <a href="https://wandb.ai/">
   <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" width="40" height="40"/>
 </a>
-
 <a href="https://aws.amazon.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" alt="AWS logo"/>
-</a>
-
-<a href="https://azure.microsoft.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
 </a>
 
 ---
