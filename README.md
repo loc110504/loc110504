@@ -8,8 +8,8 @@
   <a href="[https://www.facebook.com/profile.php?id=100015044408113](https://www.facebook.com/hg.loc.358757)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
-  <a href="mailto:chloc22@clc.fitus.edu.vn" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
+  <a href="mailto:chloc22@clc.fitus.edu.vn" target="_blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/gmail.png" width="40" height="40" alt="Email"/>
   </a>
 </p>
 
@@ -27,8 +27,6 @@ I am currently an undergraduate student in Data Science at the University of Sci
 ## 📊 **GitHub Activity** 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loc110504&show_icons=true&theme=dark)](https://github.com/loc110504)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loc110504&show_icons=true&locale=en&layout=compact" alt="loc110504" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loc110504" alt="loc110504" /></a> </p>
 
 ## Languages and Tools:
 <b>Programming Languages:</b><br>
@@ -81,7 +79,7 @@ I am currently an undergraduate student in Data Science at the University of Sci
 </a>
 
 <a href="https://aws.amazon.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" alt="AWS logo"/>
 </a>
 
 <a href="https://azure.microsoft.com/">
